@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham-haldankar
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently working on Angular, Node.js, Express, and MongoDB Project
 - 💞️ I’m looking to collaborate on GitHub
 <!--- 📫 How to reach me ...--->
 

@@ -4,8 +4,7 @@
 
 #### 💻 &nbsp; About Me :
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently working on Angular, .NET, Express, and MongoDB Project(MEAN stack)
-- 💞️ I’m looking to collaborate on GitHub
+- 🌱 I’m currently working on Angular, .NET, and MongoDB Project - 💞️ I’m looking to collaborate on GitHub
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
